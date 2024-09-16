@@ -1,0 +1,6 @@
+.mypy_cache
+db.sqlite3
+venv
+.env
+__pycache__
+.vscode

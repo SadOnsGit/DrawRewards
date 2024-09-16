@@ -1,0 +1,14 @@
+#carouselExampleIndicators {
+    width: 80%; /* Set width as a percentage */
+    margin: 0 auto; /* Center the carousel */
+}
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem; /* Increased font size */
+    color: #1e9996; /* White text */
+}
+
+.nav-link {
+    font-family: 'Roboto', sans-serif;
+    color: #1e9996; /* White text */
+}
